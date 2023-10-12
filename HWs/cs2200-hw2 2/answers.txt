@@ -1,0 +1,11 @@
+CS 2200 Spring 2023
+Homework 2
+
+Name:
+GT Username:
+
+Question 1
+----------
+
+lea $ra, 0
+br target
